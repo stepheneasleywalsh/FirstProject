@@ -9,3 +9,7 @@ Maybe you want to use a strike to show that something is old like ~~this~~
 Maybe you want a quote, to quote someone just use 
 
 > To be or not to be
+
+Maybe you want to have a link to a website
+
+For help please go to [youtube](https://youtube.com)
